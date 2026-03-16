@@ -7,11 +7,13 @@ author: ""
 author_handle: ""
 analyzed_at: ""
 lang: "en"
+confidence: "medium"
+tags: []
 ---
 
 ## Summary
 
-2-4 sentence neutral summary of the bookmarked item.
+3-5 sentence factual summary in English.
 
 ## Key Insights
 
@@ -19,10 +21,16 @@ lang: "en"
 - Insight 2
 - Insight 3
 
+## Evidence & Links
+
+- Primary claim: <url>
+- Supporting source (if any): <url>
+- What is verified vs. unverified
+
 ## Practical Relevance (for Gonzalo)
 
 - Why it matters
-- Where it could be applied
+- Where it could be applied this week
 
 ## Risks / Caveats
 

@@ -6,12 +6,12 @@ This folder stores one markdown file per bookmarked X post.
 
 - lowercase
 - hyphen-separated
-- descriptive slug
+- descriptive slug from meaning (not raw `t.co` tokens)
 - include bookmark id suffix to avoid collisions
 
 Example:
 
-`openclaw-update-ai-agents-2032758640285995314.md`
+`openclaw-update-ai-agent-capabilities-2032758640285995314.md`
 
 ## Required frontmatter
 
@@ -23,11 +23,14 @@ Example:
 - author_handle
 - analyzed_at
 - lang
+- confidence (low|medium|high)
+- tags (array)
 
 ## Required sections
 
 - Summary
 - Key Insights
+- Evidence & Links
 - Practical Relevance (for Gonzalo)
 - Risks / Caveats
 - Actions

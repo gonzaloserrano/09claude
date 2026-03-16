@@ -7,11 +7,11 @@ This folder stores one markdown file per bookmarked X post.
 - lowercase
 - hyphen-separated
 - descriptive slug from meaning (not raw `t.co` tokens)
-- include bookmark id suffix to avoid collisions
+- include analyzed timestamp prefix + bookmark id suffix to keep chronological ordering and avoid collisions
 
 Example:
 
-`openclaw-update-ai-agent-capabilities-2032758640285995314.md`
+`2026-03-16t01-14-30z-openclaw-update-ai-agent-capabilities-2032758640285995314.md`
 
 ## Required frontmatter
 

@@ -11,7 +11,7 @@ This folder stores one markdown file per bookmarked X post.
 
 Example:
 
-`2026-03-16t01-14-30z-openclaw-update-ai-agent-capabilities-2032758640285995314.md`
+`20260316t011430z-openclaw-update-ai-agent-capabilities-2032758640285995314.md`
 
 ## Required frontmatter
 

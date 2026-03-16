@@ -25,6 +25,7 @@ Example:
 - lang
 - confidence (low|medium|high)
 - tags (array)
+- cost (estimated USD cost for this single bookmark analysis)
 
 ## Required sections
 

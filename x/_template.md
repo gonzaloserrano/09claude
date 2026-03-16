@@ -9,6 +9,7 @@ analyzed_at: ""
 lang: "en"
 confidence: "medium"
 tags: []
+cost: "~$0.0000"
 ---
 
 ## Summary

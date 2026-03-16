@@ -9,6 +9,7 @@ analyzed_at: "2026-03-16T01:14:30Z"
 lang: "en"
 confidence: "medium"
 tags: ["espresso", "super-automatic", "delonghi", "coffee-machine", "buying-research"]
+cost: "~$0.0030"
 media_analyzed: true
 ---
 

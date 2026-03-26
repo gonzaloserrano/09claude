@@ -1,13 +1,35 @@
-analyzed_count: 5
-skipped_count: 0
+analyzed_count: 3
+skipped_count: 22
 high_priority_count: 0
 created_filenames:
-- 20260325t080435z-claude-dispatch-team-plan-admin-enable-rollout-2036648821015597090.md
-- 20260325t080435z-minimalist-entrepreneur-principles-as-claude-code-skills-2036162956761715096.md
-- 20260325t080435z-claude-dispatch-cowork-claude-code-teams-workspaces-2036625147474665773.md
-- 20260325t080435z-security-bootstrap-for-multi-server-hetzner-openclaw-deployments-2036422883350544519.md
-- 20260325t080435z-claude-code-auto-mode-research-preview-team-plan-2036503584943034643.md
-skipped:
-total_estimated_cost_usd: ~$0.0170
+- 20260326t080403z-sleek-design-skill-agent-mobile-ui-2036778035299667999.md
+- 20260326t080403z-revenuecat-agentic-ai-product-engineer-role-2036854920851144963.md
+- 20260326t080403z-expect-cli-agent-driven-browser-testing-2036837086180037080.md
+commit_hash: 9c8a0b7
+push_result: success (main -> origin/main)
+total_estimated_cost_usd: ~$0.0102
 errors:
 - likes fetch failed: twitter likes requires SCREEN_NAME argument in this environment
+skipped:
+- 2036648821015597090: already exists
+- 2036162956761715096: already exists
+- 2036625147474665773: already exists
+- 2036422883350544519: already exists
+- 2036503584943034643: already exists
+- 2034786360356204934: already exists
+- 2036129222318760066: already exists
+- 2036129220959805859: already exists
+- 2035871263386698016: already exists
+- 2035857346602340637: lang=zxx (English-only workflow)
+- 2035674710005187065: already exists
+- 2035703727319871678: lang=es (English-only workflow)
+- 2035637459183104197: already exists
+- 2035542975259037809: already exists
+- 2035312729427480840: already exists
+- 2035074368145858877: lang=es (English-only workflow)
+- 2035217906225877145: lang=es (English-only workflow)
+- 2035031512123678994: already exists
+- 2035081807209931153: already exists
+- 2035093224117666076: already exists
+- 2035107649314852912: already exists
+- 2035143550191677599: already exists

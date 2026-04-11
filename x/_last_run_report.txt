@@ -1,11 +1,18 @@
-analyzed_count: 1
-skipped_count: 24
+analyzed_count: 8
+skipped_count: 17
 high_priority_count: 0
 created_filenames:
-- 20260402t070139z-cmux-claude-teams-native-pane-orchestration-for-claude-code-2039284294682870052.md
-commit_hash: 02ef641
-push_result: success (main -> origin/main)
-total_estimated_cost_usd: ~/bin/zsh.0039
+- 20260411t070000z-giff-terminal-git-diff-viewer-2042555159549481253.md
+- 20260411t070000z-claude-code-monitor-tool-background-event-streams-2042345049980362819.md
+- 20260411t070000z-tanstack-ai-code-mode-integration-for-codemode-2036075357393023183.md
+- 20260411t070000z-test-suite-consolidation-for-coding-agent-regression-control-2042576048479432863.md
+- 20260411t070000z-browser-based-3d-coral-reef-mapping-with-gaussian-splats-2042367145674158190.md
+- 20260411t070000z-claude-managed-agents-cookbooks-for-data-analysis-and-slack-bots-2042401788884558090.md
+- 20260411t070000z-linear-agent-platform-bridge-using-claude-managed-agents-2042260534762856681.md
+- 20260411t070000z-rf-detr-plus-vitpose-zero-training-computer-vision-stack-2041547062190264339.md
+commit_hash: pending
+push_result: pending
+total_estimated_cost_usd: ~$0.0750
 errors:
 - likes fetch failed: twitter likes requires SCREEN_NAME argument in this environment
-- 1 new bookmark skipped due to non-English language requirement (lang=es)
+- 2 new bookmarks skipped due to non-English language requirement (langs=da, ja)

@@ -1,35 +1,17 @@
-analyzed_count: 25
-skipped_count: 0
+analyzed_count: 8
+skipped_count: 17
 high_priority_count: 0
 created_filenames:
-- 20260419t070000z-absolutely-context-hook-for-preemptive-context-injection-2044234970646913027.md
-- 20260419t070000z-claude-code-desktop-redesign-for-parallel-work-2044128194647994585.md
-- 20260419t070000z-claude-code-fullscreen-renderer-no-flicker-2043814646600348046.md
-- 20260419t070000z-claude-code-routines-github-event-and-api-triggers-2044093913376706655.md
-- 20260419t070000z-claude-code-routines-research-preview-2044095092932100509.md
-- 20260419t070000z-cloudflare-mesh-private-networking-for-agents-2044104450386587850.md
-- 20260419t070000z-codex-rescue-adversarial-review-pattern-2044985770554048515.md
-- 20260419t070000z-disable-adaptive-thinking-for-opus-troubleshooting-2044367054896037969.md
-- 20260419t070000z-gemini-native-macos-desktop-app-2044452201947627709.md
-- 20260419t070000z-grill-me-ddd-skill-for-domain-design-2044760051454275867.md
-- 20260419t070000z-gstack-skills-ux-upgrade-2044110429027484117.md
-- 20260419t070000z-gstack-v1-logical-sloc-productivity-2045399029560033551.md
-- 20260419t070000z-impeccable-2-design-skill-for-ai-harnesses-2044505743144194514.md
-- 20260419t070000z-lingbot-map-open-3d-foundation-model-2044808958700064779.md
-- 20260419t070000z-miaoyan-v320-swift-markdown-editor-2045310991991447569.md
-- 20260419t070000z-opus-47-capability-step-up-and-tradeoffs-2044822408826380440.md
-- 20260419t070000z-opus-47-migration-skill-claude-code-2044832904560398414.md
-- 20260419t070000z-opus-47-usage-tips-for-long-running-agents-2044847848035156457.md
-- 20260419t070000z-over-city-scale-machine-readable-3d-maps-2045052178662887566.md
-- 20260419t070000z-postgres-gateway-drug-open-tables-vs-kafka-2045532786350788682.md
-- 20260419t070000z-prompt-optimizer-agent-skill-baselines-2045722487753982115.md
-- 20260419t070000z-qwen36-35b-a3b-coding-benchmark-claims-2045366039844671690.md
-- 20260419t070000z-qwen36-mac-mlx-quantizations-2044936351481823673.md
-- 20260419t070000z-reach-mix-tasks-for-coding-agents-2045483694471684173.md
-- 20260419t070000z-sst-cloudflare-static-sites-worker-assets-2045590617627984266.md
-commit_hash: 3924e177dd7d1fdcebd294344f93bdd95fd6258d
+- 20260420t070000z-ai-consulting-opportunity-for-small-businesses-2045880852136022455.md
+- 20260420t070000z-kubernetes-devops-interview-concepts-cheat-sheet-2045857650311930149.md
+- 20260420t070000z-slack-agent-kit-and-cli-agent-scaffolding-2044863681113301031.md
+- 20260420t070000z-gstack-v130-design-memory-and-context-files-2045803230240854115.md
+- 20260420t070000z-andrej-karpathy-skills-claude-md-pattern-2045807595186012274.md
+- 20260420t070000z-ai-meal-prep-prompts-versus-dietitian-reality-2045826159636824423.md
+- 20260420t070000z-show-clear-context-on-plan-accept-setting-2045546302646170079.md
+- 20260420t070000z-codex-background-childrens-book-workflow-2045610838850171023.md
+commit_hash: a05ade1873226d75ec030a8d0505e8d1a41586ff
 push_result: pushed to origin/main
-total_estimated_cost_usd: ~$0.1000
+total_estimated_cost_usd: ~$0.0320
 errors:
 - likes fetch failed: twitter likes requires SCREEN_NAME argument in this environment
-- enrichment helper failed: ModuleNotFoundError: No module named 'requests'
